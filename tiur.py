@@ -1,0 +1,2 @@
+kocok = "kau"
+print(kocok)
